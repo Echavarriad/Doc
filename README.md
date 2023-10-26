@@ -135,4 +135,6 @@ nvm install “version”
 > wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox_0.12.5-1.focal_amd64.deb
 > sudo apt install ./wkhtmltox_0.12.5-1.focal_amd64.deb
 ```
+## Conclusion
+El despliegue exitoso de un servidor Ubuntu para el proyecto que combina Symfony en el lado del servidor y React en el lado del cliente representa un paso esencial hacia la puesta en marcha de la aplicación. Este entorno de desarrollo robusto y escalable proporciona la base necesaria para la entrega de un servicio de calidad a los usuarios finales. La configuración adecuada del servidor, la instalación de las dependencias y la implementación de las mejores prácticas de seguridad son elementos fundamentales para garantizar un rendimiento óptimo y una experiencia de usuario sin problemas. Con este servidor Ubuntu en su lugar, estalisto listos para avanzar en el desarrollo, la prueba y la expansión del proyecto, confiados en una infraestructura sólida.
 
