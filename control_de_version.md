@@ -1,5 +1,9 @@
 ### Conexion ssh
-- 
+- se obtiene .pem
+- se abre la consolo cmd
+- se ejecuta el comando ``` ssh -i C:\ruta\de\archivo\bibliotech.pem _____user@20.92.**.****```
+- se acepta la conexión por pirmera vez
+> una vez hecho estos pasos se abrira la terminal de servidor ubuntu 
 
 
 ### configurar repositorio 
