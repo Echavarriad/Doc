@@ -3,7 +3,18 @@
 - se abre la consolo cmd
 - se ejecuta el comando ``` ssh -i C:\ruta\de\archivo\bibliotech.pem _____user@20.92.**.****```
 - se acepta la conexión por pirmera vez
-> una vez hecho estos pasos se abrira la terminal de servidor ubuntu 
+> una vez hecho estos pasos se abrira la terminal de servidor ubuntu
+
+### Conexion sftp Winscp puerto 22
+- Descarga de Winscp
+- confirmas .ppk
+- configuracion de conexión
+ >ip del servidor
+ >Nombre de usuario
+### configuracion de .ppk
+- en la interfaz de inicio de sesion nos dirigimos a la opcion de avanzado
+- en la opcion ssh buscamos la opcion de autentificación.
+- buscamos archivos de calve privada y buscamos la ruta en la que se encuentra el .ppk
 
 
 ### configurar repositorio 
