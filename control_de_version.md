@@ -16,6 +16,10 @@
 - en la opcion ssh buscamos la opcion de autentificación.
 - buscamos archivos de calve privada y buscamos la ruta en la que se encuentra el .ppk
 
+### ingreso a la terminal 
+- en la parte superiror del winscp se busca la opcion de putty para conecion por la terminal
+> nota se debe tener instalado putty para realizar esta conexión
+
 
 ### configurar repositorio 
 ### permisos directorio /var/www
